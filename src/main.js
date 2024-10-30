@@ -1,9 +1,9 @@
 function Main() {
-    return (
-      <main>
-        {/* Placeholder for main content */}
-      </main>
-    );
-  }
+  return (
+    <main className="main">
+      Main Content {/* Placeholder text */}
+    </main>
+  );
+}
 
-  export default Main;
+export default Main;

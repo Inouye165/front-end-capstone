@@ -1,9 +1,9 @@
 function Nav() {
-    return (
-      <nav>
-        {/* Placeholder for future navigation */}
-      </nav>
-    );
-  }
+  return (
+    <nav className="nav">
+      Navigation Menu {/* Placeholder text */}
+    </nav>
+  );
+}
 
-  export default Nav;
+export default Nav;

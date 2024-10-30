@@ -1,9 +1,9 @@
 function Footer() {
-    return (
-      <footer>
-        {/* Placeholder for footer content */}
-      </footer>
-    );
-  }
+  return (
+    <footer className="footer">
+      Little Lemon Footer {/* Placeholder text */}
+    </footer>
+  );
+}
 
-  export default Footer;
+export default Footer;

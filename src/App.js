@@ -5,12 +5,12 @@ import Footer from './Footer';
 
 function App() {
   return (
-    <>
+    <div className="container"> {/* New: Grid container */}
       <Header />
       <Nav />
       <Main />
       <Footer />
-    </>
+    </div>
   );
 }
 

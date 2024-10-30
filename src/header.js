@@ -1,9 +1,9 @@
 function Header() {
-    return (
-      <header>
-        {/* Placeholder for future content */}
-      </header>
-    );
-  }
+  return (
+    <header className="header">
+      Little Lemon Header {/* Placeholder text */}
+    </header>
+  );
+}
 
-  export default Header;
+export default Header;
